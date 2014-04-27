@@ -1,4 +1,4 @@
-%%Chapter 5 Problems
+%%Chapter 5 Problems : Two Dimensional Plots
 %
 % <Brett Davis>
 %  <20140306>
